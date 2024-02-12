@@ -3,7 +3,7 @@
 The project aims to understand, analyze, and predict the characteristics of asteroids, with a specific focus on identifying potential hazardous ones.
 
 ## Loading the Dataset:
-The dataset was downloaded from kaggle Nasa Asteroids Dataset[/kaggle/input/nasa-asteroids-dataset/Nasa_Asteroids_Data.csv]. 
+The dataset was downloaded from kaggle [Nasa Asteroids Dataset](/kaggle/input/nasa-asteroids-dataset/Nasa_Asteroids_Data.csv). 
 
 ## Exploratory Data Analysis (EDA):
 
