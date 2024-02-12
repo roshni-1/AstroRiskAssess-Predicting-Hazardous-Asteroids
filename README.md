@@ -7,7 +7,7 @@ The dataset was downloaded from kaggle [Nasa Asteroids Dataset](/kaggle/input/na
 
 ## Exploratory Data Analysis (EDA):
 
-- I performed exploratory data analysis to understand the dataset's structure, check for missing values, and explore the distribution of various features.
+- Performed exploratory data analysis to understand the dataset's structure, check for missing values, and explore the distribution of various features.
 - Visualization techniques, including histograms, pair plots, radar charts, 3D scatter plots etc, were used to gain insights into the dataset.
 
 ## Data Preprocessing:
@@ -43,5 +43,5 @@ The dataset was downloaded from kaggle [Nasa Asteroids Dataset](/kaggle/input/na
 - The dataset with actual and predicted labels was saved to a CSV file for further analysis or reporting.
 
 ## Conclusion 
-The AstroRiskAssess project has provided valuable insights into predicting hazardous asteroids using the NASA Asteroids Dataset. Throughout the journey, I performed a comprehensive analysis, explored various machine learning models, and created an interactive visualization dashboard.
+The AstroRiskAssess project has provided valuable insights into predicting hazardous asteroids using the NASA Asteroids Dataset. Throughout the journey, performed a comprehensive analysis, explored various machine learning models, and created an interactive visualization dashboard.
 
